@@ -14,7 +14,7 @@
         android:name=".MainApplication"
         tools:replace="android:icon,android:theme" >
         <activity
-            android:name=".MainActivity"
+            android:name=".SignInActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +25,7 @@
         <activity
             android:name=".LandingActivity"
             android:label="@string/title_activity_landing"
-            android:parentActivityName=".MainActivity" >
+            android:parentActivityName=".SignInActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.company.samsalvail.drinkingbuddy.MainActivity" />
