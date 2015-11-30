@@ -25,7 +25,7 @@ public class SelectSportsActivityFragment extends Fragment {
         imgView4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent coffeeInt = new Intent(v.getContext(), CoffeeActivity.class);
+                Intent coffeeInt = new Intent(v.getContext(), SportsActivity.class);
                 startActivity(coffeeInt);
 
             }
