@@ -27,4 +27,10 @@
     </style>
     <string name="title_activity_tea">TeaActivity</string>
     <string name="title_activity_the_drink">TheDrinkActivity</string>
+    <string name="title_activity_select_coffee">SelectCoffeeActivity</string>
+    <string name="title_activity_select_tea">SelectTeaActivity</string>
+    <string name="title_activity_select_soda">SelectSodaActivity</string>
+    <string name="title_activity_select_energy">SelectEnergyActivity</string>
+    <string name="title_activity_select_sports">SelectSportsActivity</string>
+    <string name="title_activity_select_beer">SelectBeerActivity</string>
 </resources>
